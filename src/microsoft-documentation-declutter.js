@@ -1,12 +1,13 @@
 // ==UserScript==
-// @name         Microsoft Documentation Trimmer
-// @namespace    https://github.com/GemedetAdept
-// @version      0.1
-// @description  try to take over the world!
-// @author       You
-// @match        *://learn.microsoft.com/en-us/powershell/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=microsoft.com
+// @name         Microsoft Doc Page Trimmer
+// @namespace    https://github.com/GemedetAdept/microsoft-docs-trimmer/
+// @version      1.0
+// @description  A userscript to remove the sidebars and have adaptive scaling on Microsoft's documentation pages.
+// @author       https://github.com/GemedetAdept
+// @match        *://learn.microsoft.com/*
+// @icon         https://github.com/GemedetAdept/microsoft-docs-trimmer/blob/e7fbe7666d1595155d88729b84bfcdd60d7f1ba0/resources/favicon.png
 // @grant        GM_registerMenuCommand
+// @license      GNU General Public License v3.0
 // ==/UserScript==
 
 var rightContainer = document.getElementById("ms--additional-resources");
