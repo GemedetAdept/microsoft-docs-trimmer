@@ -6,6 +6,16 @@ When I'm referencing documentation for the .NET framework, I often have to dock 
 Planned:
 * A toggle option so that you don't need to reload the userscript every time you want to show/hide the sidebars.
 
+## Screenshots
+
+### Userscript disabled
+![Documentation page with userscript disabled.](resources/userscript_off.png)
+
+### Userscript enabled
+![Documentation page with userscript enabled.](resources/userscript_on.png)
+
+
+
 <span>By: <span>
 <span style="color:#b109ae;">G</span>
 <span style="color:#cb00a0;">e</span>
